@@ -29,9 +29,16 @@ p {
 h2 {
   margin-top: 40px;
   color: #333;
+  border-bottom: 2px solid #ddd;
+  display: inline-block;
+  padding-bottom: 5px;
 }
 
 ul {
   list-style: none;
   padding: 0;
+}
+
+li {
+  margin: 5px 0;
 }
